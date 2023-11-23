@@ -8,9 +8,9 @@
 
 
 ## 📖 What I am currently learning / working on
-- 🔭 I’m currently working on REST API with Node.js, Express, MongoDB and Jest
-- 🌱 I’m currently learning TypeScript
-- 👨‍💻 I'm currently working on Tamagotchi app
+- 💻 I’m currently learning TypeScript / C++
+- 🐼 I'm currently working on Tamagotchi app
+- 🌍 I’m currently rewriting company site. 
 
 ## 🔍 How to reach me: 
 
